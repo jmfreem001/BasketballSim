@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="BasketballSim" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="Main" />
+    <option name="MAIN_CLASS_NAME" value="com.freemanj.Main" />
     <module name="BasketballSim" />
     <method v="2">
       <option name="Make" enabled="true" />

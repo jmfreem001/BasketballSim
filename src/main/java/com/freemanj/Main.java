@@ -1,3 +1,8 @@
+package com.freemanj;
+
+import com.freemanj.Player;
+import com.freemanj.Team;
+
 public class Main {
     public static void main(String[] args) {
         Team lightning = new Team("Blue Lightning");

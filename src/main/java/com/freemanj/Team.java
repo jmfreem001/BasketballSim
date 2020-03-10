@@ -1,8 +1,10 @@
+package com.freemanj;
+
 import java.util.ArrayList;
 
 public class Team {
     private String name;
-    private ArrayList<Player> roster = new ArrayList<>();
+    private ArrayList<Player> roster = new ArrayList<Player>();
 
     public Team(String name) {
         this.name = name;

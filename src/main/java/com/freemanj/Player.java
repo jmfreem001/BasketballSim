@@ -1,3 +1,5 @@
+package com.freemanj;
+
 public class Player {
     private String name;
     private int heightInInches;
